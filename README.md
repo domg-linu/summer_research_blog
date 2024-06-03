@@ -1,5 +1,7 @@
-# summer_research_blog
+# SPACES Summer Research Blog!
 GitHub page where Rosemary and Dominick will be documenting their progress!!!
 
-# Links To Seperate Blogs
+![Mascot](/images/logo.png)
+
+# Links
 [Link to Dominik's Page](/dominick.md)
