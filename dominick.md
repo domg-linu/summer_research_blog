@@ -9,7 +9,7 @@ This is some basic content for testing
 
 ### About This Page
 
-blah blah 
+blah  
 
 ### Features
 
